@@ -1,2 +1,2 @@
 # case31
-a practicl distribution 31-bus system
+a practical distribution 31-bus system
